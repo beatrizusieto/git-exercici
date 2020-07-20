@@ -1,1 +1,2 @@
 Primer fitxer de prova
+Canvi fet al document des de la branch "master"
